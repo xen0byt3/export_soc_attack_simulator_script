@@ -24,7 +24,7 @@ ATTACKER4="77.88.99.101"
 COUNTRY4="Iran"
 
 # Internal insider
-INSIDER_USER="john"
+INSIDER_USER="ado"
 
 echo "[+] Starting EXPERT SOC Simulation..."
 
