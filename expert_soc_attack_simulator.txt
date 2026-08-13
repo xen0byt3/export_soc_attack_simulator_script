@@ -1,29 +1,21 @@
 #!/bin/bash
 
-LOGFILE="/media/sf_adoniZone_logs/attack.log"
+LOGFILE="/media/sf_Changethizzzzz_logs/attack.log"
 TARGET_USER="admin"
 
-# -----------------------------
-# ATTACKER PROFILES
-# -----------------------------
 
-# Loud noisy attacker (FALSE POSITIVE)
 ATTACKER1="45.67.89.10"
 COUNTRY1="Russia"
 
-# Real stealth attacker #1
 ATTACKER2="103.21.44.55"
 COUNTRY2="China"
 
-# Real stealth attacker #2
 ATTACKER3="198.51.100.23"
 COUNTRY3="North Korea"
 
-# Secondary attacker
 ATTACKER4="77.88.99.101"
 COUNTRY4="Iran"
 
-# Internal insider
 INSIDER_USER="ado"
 
 echo "[+] Starting EXPERT SOC Simulation..."
